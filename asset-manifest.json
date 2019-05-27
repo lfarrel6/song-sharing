@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/song-sharing/static/css/main.00027cdf.chunk.css",
-    "main.js": "/song-sharing/static/js/main.e92edd94.chunk.js",
-    "main.js.map": "/song-sharing/static/js/main.e92edd94.chunk.js.map",
+    "main.js": "/song-sharing/static/js/main.febe504d.chunk.js",
+    "main.js.map": "/song-sharing/static/js/main.febe504d.chunk.js.map",
     "runtime~main.js": "/song-sharing/static/js/runtime~main.932e7c10.js",
     "runtime~main.js.map": "/song-sharing/static/js/runtime~main.932e7c10.js.map",
     "static/js/2.7aa23f62.chunk.js": "/song-sharing/static/js/2.7aa23f62.chunk.js",
     "static/js/2.7aa23f62.chunk.js.map": "/song-sharing/static/js/2.7aa23f62.chunk.js.map",
     "index.html": "/song-sharing/index.html",
-    "precache-manifest.e0a8f1ee45447a1f74f8b23633f351b4.js": "/song-sharing/precache-manifest.e0a8f1ee45447a1f74f8b23633f351b4.js",
+    "precache-manifest.ee002cea7779d3d9dfdb06c7b3769367.js": "/song-sharing/precache-manifest.ee002cea7779d3d9dfdb06c7b3769367.js",
     "service-worker.js": "/song-sharing/service-worker.js",
     "static/css/main.00027cdf.chunk.css.map": "/song-sharing/static/css/main.00027cdf.chunk.css.map"
   }

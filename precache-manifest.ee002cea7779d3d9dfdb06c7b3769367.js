@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b61fd9ea0d5bd00237412d1471007c6b",
+    "revision": "b80f339dc5bdedee30cf5b7223fbf62d",
     "url": "/song-sharing/index.html"
   },
   {
-    "revision": "ed7d52efcf22f501d135",
+    "revision": "319411826e1dc26c070b",
     "url": "/song-sharing/static/css/main.00027cdf.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/song-sharing/static/js/2.7aa23f62.chunk.js"
   },
   {
-    "revision": "ed7d52efcf22f501d135",
-    "url": "/song-sharing/static/js/main.e92edd94.chunk.js"
+    "revision": "319411826e1dc26c070b",
+    "url": "/song-sharing/static/js/main.febe504d.chunk.js"
   },
   {
     "revision": "b88cd78f65c1baf03203",
