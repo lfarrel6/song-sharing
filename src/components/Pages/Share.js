@@ -4,7 +4,7 @@ import TextButton from '../UI-elems/TextButton';
 import SafeLink from '../UI-elems/SafeLink.js';
 
 const qr = require('qr-image');
-const API_ROOT =  "http://ws.audioscrobbler.com/2.0/";
+const API_ROOT =  "https://ws.audioscrobbler.com/2.0/";
 
 const API_KEY = "99f9fa291c2122382500c59ed0b2229c";
 
